@@ -1,0 +1,10 @@
+# Private setup and patient-level data must never enter the public examples.
+dat_setup.R
+private*/
+results*/
+validation_private.R
+*.rds
+*.rda
+*.csv
+.Rhistory
+.RData
